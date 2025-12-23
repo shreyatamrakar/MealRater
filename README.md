@@ -10,12 +10,8 @@
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Database](#database)
-- [License](#license)
-- [Contribution](#contribution)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
