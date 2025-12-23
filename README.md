@@ -28,15 +28,16 @@
 
 ## Screenshots
 
-<!-- Replace the image paths with actual screenshots from your project -->
+<!-- Display smaller screenshots side by side using HTML -->
 
-![Main Screen](./screenshots/main_screen.png)  
-*Main screen for entering meal and restaurant details.*
+<p float="left">
+  <img src="./screenshots/main_screen.png" alt="Main Screen" width="400" style="margin-right: 10px"/>
+  <img src="./screenshots/rate_screen.png" alt="Rate Meal Screen" width="400"/>
+</p>
 
-![Rate Meal Screen](./screenshots/rate_screen.png)  
-*Screen for selecting a meal rating.*
-
+*Main Screen (left) for entering meal and restaurant details. Rate Meal Screen (right) for selecting a meal rating.*
 ---
+
 
 ## Installation
 
